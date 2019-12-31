@@ -793,7 +793,7 @@ ESP -> 004C195C   6C6C6548  Hell  / /
        004C1970   000A2121  !!..  | \
        004C1974   004C1994  ”.L.  |
        004C1978   004C19A8  ¨.L.  |  Function local variable space
-       004C197C   004C19A0   .L.  |
+       004C197C   004C19A0   .L.  |
           <--- SNIP --->          |
        004C19E4   00000017  ....  |
        004C19E8   004C1974  t.L.  |
@@ -831,7 +831,7 @@ drastically:
        004C1970   000A2121  !!..  | \
        004C1974   004C1994  ”.L.  |
        004C1978   004C19A8  ¨.L.  |  Function local variable space
-       004C197C   004C19A0   .L.  |
+       004C197C   004C19A0   .L.  |
           <--- SNIP --->          |
        004C19E4   00000017  ....  |
        004C19E8   004C1974  t.L.  |
